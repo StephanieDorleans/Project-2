@@ -1,7 +1,3 @@
-# Stephanie Dorleans
-# Quadplotter - Assignment 3.2
-# This program will plot a quadratic function at certain points.The program will accept input from the
-# user (coefficients) and output the results for x values.
 
 import math
 
